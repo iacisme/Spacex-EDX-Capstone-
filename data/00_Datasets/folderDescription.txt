@@ -1,0 +1,1 @@
+This folder is meant to store datasets. These datasets can be CSV files, or GIS related files used in GIS analysis of information.

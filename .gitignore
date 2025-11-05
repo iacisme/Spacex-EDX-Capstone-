@@ -1,0 +1,13 @@
+# GIT will ignore the following files:
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# Folders
+ignoreFolder/
+apiKeys/
+__pycache__/
+
+# MKDOCS & MKDOCS Material local build files
+.cache/
+

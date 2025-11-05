@@ -1,0 +1,1 @@
+This folder is meant to store data that will be used in Notebooks, or other documentation and dashboards.

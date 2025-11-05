@@ -1,0 +1,1 @@
+This folder is meant to images that will be used in either the repository README.md, or images that will be embedded in Jupyter Notebooks, or other documentation.
