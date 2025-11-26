@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-17T18:25:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152954307",
+        "aeroway": "launch_complex",
+        "description": "Originally built to launch the Titan III and Titan IV, now leased to SpaceX to launch the Falcon 9",
+        "name": "Space Launch Complex 40",
+        "old_name": "Launch Complex 40",
+        "old_ref": "LC-40",
+        "operator": "Cape Canaveral Air Force Station",
+        "ref": "SLC-40",
+        "wikidata": "Q948471",
+        "wikipedia": "en:Cape Canaveral Space Launch Complex 40"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.577918,
+              28.5597796
+            ],
+            [
+              -80.5778298,
+              28.5595918
+            ],
+            [
+              -80.5776039,
+              28.5595597
+            ],
+            [
+              -80.5774122,
+              28.5595325
+            ],
+            [
+              -80.5773828,
+              28.5596925
+            ],
+            [
+              -80.5751225,
+              28.561143
+            ],
+            [
+              -80.5751119,
+              28.5622649
+            ],
+            [
+              -80.575917,
+              28.5642731
+            ],
+            [
+              -80.5760409,
+              28.564591
+            ],
+            [
+              -80.5775598,
+              28.5642039
+            ],
+            [
+              -80.5781549,
+              28.5637006
+            ],
+            [
+              -80.5792674,
+              28.5627598
+            ],
+            [
+              -80.5794191,
+              28.5618303
+            ],
+            [
+              -80.5786091,
+              28.5607532
+            ],
+            [
+              -80.577918,
+              28.5597796
+            ]
+          ]
+        ]
+      },
+      "id": "way/152954307"
+    }
+  ]
+}

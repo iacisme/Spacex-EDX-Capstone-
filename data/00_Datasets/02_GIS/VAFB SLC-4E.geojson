@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-17T23:21:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133585927",
+        "FMMP_modified": "no",
+        "FMMP_reviewed": "no",
+        "acres": "123.20473092",
+        "addr:county": "Santa Barbara",
+        "aeroway": "launch_complex",
+        "attribution": "Farmland Mapping and Monitoring Program",
+        "landuse": "industrial",
+        "name": "Vandenberg Space Launch Complex 4",
+        "operator": "SpaceX",
+        "ref": "SLC-4",
+        "source": "http://www.consrv.ca.gov/dlrp/fmmp/products/Pages/DownloadGISdata.aspx",
+        "wikidata": "Q2510106",
+        "wikipedia": "en:Vandenberg Space Launch Complex 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -120.6101043,
+              34.63067
+            ],
+            [
+              -120.6081648,
+              34.631398
+            ],
+            [
+              -120.6075017,
+              34.6345553
+            ],
+            [
+              -120.6074428,
+              34.6349799
+            ],
+            [
+              -120.6075136,
+              34.6352362
+            ],
+            [
+              -120.6101396,
+              34.6368843
+            ],
+            [
+              -120.6107271,
+              34.6372163
+            ],
+            [
+              -120.6117464,
+              34.6375308
+            ],
+            [
+              -120.6142188,
+              34.6376014
+            ],
+            [
+              -120.6146769,
+              34.6353934
+            ],
+            [
+              -120.6171968,
+              34.6344849
+            ],
+            [
+              -120.6173596,
+              34.6343101
+            ],
+            [
+              -120.6174941,
+              34.633419
+            ],
+            [
+              -120.6172322,
+              34.6322134
+            ],
+            [
+              -120.6169066,
+              34.6319921
+            ],
+            [
+              -120.6162695,
+              34.6319106
+            ],
+            [
+              -120.6155688,
+              34.6319746
+            ],
+            [
+              -120.6146981,
+              34.6319106
+            ],
+            [
+              -120.613516,
+              34.6316834
+            ],
+            [
+              -120.6123623,
+              34.6311825
+            ],
+            [
+              -120.6113784,
+              34.6306176
+            ],
+            [
+              -120.6101043,
+              34.63067
+            ]
+          ]
+        ]
+      },
+      "id": "way/133585927"
+    }
+  ]
+}

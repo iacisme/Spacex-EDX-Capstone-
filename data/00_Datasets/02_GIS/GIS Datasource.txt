@@ -1,0 +1,53 @@
+Source: Overpass Turbo (https://overpass-turbo.eu/)
+
+CCAFS SLC-40.geojson
+
+Query:
+```
+[out:json][timeout:25];
+
+// Get only closed ways or multipolygon relations tagged as SLC-40
+(
+  way["name"="SLC-40"](if:is_closed());
+  relation["name"="SLC-40"];
+  way["ref"="SLC-40"](if:is_closed());
+  relation["ref"="SLC-40"];
+);
+
+// Return only the polygon geometry
+out geom;
+```
+
+KSC 39A.geojson
+
+Query:
+```
+[out:json][timeout:25];
+
+(
+  way["name"="LC-39A"](if:is_closed());
+  way["ref"="LC-39A"](if:is_closed());
+  relation["name"="LC-39A"];
+  relation["ref"="LC-39A"];
+);
+
+out geom;
+```
+
+VAFB SLC-4E
+
+Query:
+```
+[out:json][timeout:25];
+(
+  // Search for Ways and Relations using the various names and references
+  wr["name"="Space Launch Complex 4 East"]({{bbox}});
+  wr["ref"="SLC-4E"]({{bbox}});
+  wr["ref"="4E"]({{bbox}});
+  // Often the entire complex is mapped as a single entity
+  wr["name"="Vandenberg Space Launch Complex 4"]({{bbox}});
+);
+// Print the result set, including full geometry
+(._;>;);
+out geom;
+```
