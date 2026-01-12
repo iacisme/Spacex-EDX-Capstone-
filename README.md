@@ -1,9 +1,16 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
+
+SpaceY is start-up rocket company founded by Allon Musk. SpaceY's mission is to become the permium commercial space transportation company by taking market share from Rocket Lab, Blue Origin, and SpaceX.
+
+SpaceY plans to compete by:
+1. Designing a fully reusable rocket, inspired by SpaceX's designs
+2. Gather open-source data on SpaceX launches and landings to analyze trends and patterns related to booster reuse
+3. Build a machine learning model that can predict a successful landing. Predicting a successful landing means the cost of a launch can be predicted to be ~$69.75 million
+4. Designing / building a reusable rocket, and competively pricing a rocket launch to beat SpaceX's costs 
+
+
+
+
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
 Insights and recommendations are provided on the following key areas:
