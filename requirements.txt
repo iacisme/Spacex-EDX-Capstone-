@@ -96,3 +96,6 @@ mkdocs-material
 
 # Python
 debugpy
+
+# Utilities
+wget
