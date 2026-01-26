@@ -23,7 +23,7 @@ This project focuses on delivering actionable insights and predictive capabiliti
 
 Below are links to the key project documents:
 
-> A **PDF** of the final presentation can be found here. The original **Power Point** slides is found [here](). **`TODO: ADD LINKS TO PDF AND PP`**
+> A **PDF** of the final presentation can be found [here](https://github.com/iacisme/Spacex-EDX-Capstone-/blob/main/presentation/EDX%20Capstone%20-%20SpaceX%20Launch%20Predictions.pdf). The original **Power Point** slides is found [here](https://github.com/iacisme/Spacex-EDX-Capstone-/blob/main/presentation/EDX%20Capstone%20-%20SpaceX%20Launch%20Predictions.pptx).
       
 > The notebook used to **fetch SpaceX data from a Rest API** is found [here](https://github.com/iacisme/Spacex-EDX-Capstone-/blob/main/notebooks/01_jupyter-labs-spacex-data-collection-api-v2.ipynb).
 
@@ -70,4 +70,4 @@ The following are the key findings of this project:
 
 # Insights Deep Dive
 
-Refer to the presentation found here for the analysis and deep dive on the analytics for this project. **`TODO: ADD LINKS TO PDF AND PP`**
+Refer to the presentation found [here](https://github.com/iacisme/Spacex-EDX-Capstone-/blob/main/presentation/EDX%20Capstone%20-%20SpaceX%20Launch%20Predictions.pdf) for the analysis and deep dive on the analytics for this project.
